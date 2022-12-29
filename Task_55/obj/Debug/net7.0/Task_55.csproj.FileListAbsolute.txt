@@ -1,0 +1,5 @@
+/Users/yurakarbushev/Desktop/Lesson8/Task_55/obj/Debug/net7.0/Task_55.csproj.AssemblyReference.cache
+/Users/yurakarbushev/Desktop/Lesson8/Task_55/obj/Debug/net7.0/Task_55.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yurakarbushev/Desktop/Lesson8/Task_55/obj/Debug/net7.0/Task_55.AssemblyInfoInputs.cache
+/Users/yurakarbushev/Desktop/Lesson8/Task_55/obj/Debug/net7.0/Task_55.AssemblyInfo.cs
+/Users/yurakarbushev/Desktop/Lesson8/Task_55/obj/Debug/net7.0/Task_55.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+/Users/yurakarbushev/Desktop/Lesson8/Task_56/bin/Debug/net7.0/Task_56
+/Users/yurakarbushev/Desktop/Lesson8/Task_56/bin/Debug/net7.0/Task_56.deps.json
+/Users/yurakarbushev/Desktop/Lesson8/Task_56/bin/Debug/net7.0/Task_56.runtimeconfig.json
+/Users/yurakarbushev/Desktop/Lesson8/Task_56/bin/Debug/net7.0/Task_56.dll
+/Users/yurakarbushev/Desktop/Lesson8/Task_56/bin/Debug/net7.0/Task_56.pdb
+/Users/yurakarbushev/Desktop/Lesson8/Task_56/obj/Debug/net7.0/Task_56.csproj.AssemblyReference.cache
+/Users/yurakarbushev/Desktop/Lesson8/Task_56/obj/Debug/net7.0/Task_56.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yurakarbushev/Desktop/Lesson8/Task_56/obj/Debug/net7.0/Task_56.AssemblyInfoInputs.cache
+/Users/yurakarbushev/Desktop/Lesson8/Task_56/obj/Debug/net7.0/Task_56.AssemblyInfo.cs
+/Users/yurakarbushev/Desktop/Lesson8/Task_56/obj/Debug/net7.0/Task_56.csproj.CoreCompileInputs.cache
+/Users/yurakarbushev/Desktop/Lesson8/Task_56/obj/Debug/net7.0/Task_56.dll
+/Users/yurakarbushev/Desktop/Lesson8/Task_56/obj/Debug/net7.0/refint/Task_56.dll
+/Users/yurakarbushev/Desktop/Lesson8/Task_56/obj/Debug/net7.0/Task_56.pdb
+/Users/yurakarbushev/Desktop/Lesson8/Task_56/obj/Debug/net7.0/Task_56.genruntimeconfig.cache
+/Users/yurakarbushev/Desktop/Lesson8/Task_56/obj/Debug/net7.0/ref/Task_56.dll
